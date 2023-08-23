@@ -1,1 +1,1 @@
-# My personal organization for dependencies
+# Stuff I use
